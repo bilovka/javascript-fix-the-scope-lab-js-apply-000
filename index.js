@@ -14,7 +14,7 @@ function yourAnimal() {
  var myanimal = 'cat'
  if(animal===myanimal) 
  return myanimal
- return animal
+ else return animal
 }
 
 function add2(n) {
